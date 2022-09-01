@@ -1,1 +1,1 @@
-symbolic permissions
+if only
