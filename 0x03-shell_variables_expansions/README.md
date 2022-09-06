@@ -1,1 +1,1 @@
-script that prints every other line from input
+water and stir
